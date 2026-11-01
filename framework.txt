@@ -1,0 +1,7 @@
+birthday-project/
+│
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+    └── birthday.mp3
